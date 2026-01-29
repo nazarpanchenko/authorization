@@ -14,7 +14,7 @@ The project is split into client-side and server-side parts to demonstrate how J
 
 ## Running the Project
 
-Both the client and server are started using the same command.
+Run npm i command from both client and server root fiolders to install required dependencies
 
-```bash
+Both the client and server are started using the same command.
 npm run dev
